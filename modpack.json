@@ -1,0 +1,15 @@
+{
+  "name": "GunsPVP Package",
+  "title": "GunsPVP",
+  "gameVersion": "1.7.10",
+  "launch": {
+    "flags": []
+  },
+  "userFiles": {
+    "include": [
+      "config/GunsPVP.cfg",
+      "options.txt",
+	  "servers.dat"
+    ]
+  }
+}
