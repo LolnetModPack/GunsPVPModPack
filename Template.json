@@ -1,0 +1,12 @@
+{
+"minimumVersion": 1, 
+"packages": [
+{
+"name": "GunsPVP Package", 
+"title": "GunsPVP", 
+"version": "MODPACKVERSION"", 
+"location": "https://www.lolnet.co.nz/modpack/GunsPVPmanifest.json", 
+"priority": 1
+}
+]
+}
