@@ -1,6 +1,6 @@
 ![blah blah](http://i.imgur.com/IrD3LbF.jpg)
 
-# Welcome to the Lolnet Adventure Pack Github!
+# Welcome to the Lolnet GunsPVP Pack Github!
 
 ## What is the Lolnet Adventure Pack?
 
